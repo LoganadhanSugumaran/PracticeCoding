@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c19f4e-3383-4a28-af08-5056809cf4bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCodes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/TargetNumber.java" afterDir="false" />
+    <list default="true" id="94c19f4e-3383-4a28-af08-5056809cf4bf" name="Changes" comment="PracticeCodes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +34,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TargetNumber">
+  <component name="RunManager" selected="Application.PalindromeCheck">
+    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.PalindromeCheck" />
+      <module name="PracticeCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.PalindromeNumber" />
       <module name="PracticeCodes" />
@@ -84,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeCheck" />
         <item itemvalue="Application.TargetNumber" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.PrimeNumber" />
@@ -99,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692517139828</updated>
     </task>
+    <task id="LOCAL-00001" summary="PracticeCodes.iml">
+      <created>1692519927385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692519927385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PracticeCodes.iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="PracticeCodes.iml" />
   </component>
 </project>
