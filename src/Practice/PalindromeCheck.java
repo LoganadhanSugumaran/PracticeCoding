@@ -9,8 +9,7 @@ public class PalindromeCheck {
             int newSize = removeDuplicates(sortedArray);
 
             System.out.println("Array after removing duplicates:");
-            System.out.println("Array after removing duplicates:");
-            System.out.println("Array after removing duplicates:");
+
             for (int i = 0; i < newSize; i++) {
                 System.out.print(sortedArray[i] + " ");
             }
