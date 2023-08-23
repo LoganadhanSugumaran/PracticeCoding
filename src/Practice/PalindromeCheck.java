@@ -1,11 +1,14 @@
 package Practice;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class PalindromeCheck {
         public static void main(String[] args) {
             int[] sortedArray = { 1, 1, 2, 2, 2, 3, 4, 4, 5, 5, 6 };
 
             int newSize = removeDuplicates(sortedArray);
 
+            System.out.println("Array after removing duplicates:");
             System.out.println("Array after removing duplicates:");
             for (int i = 0; i < newSize; i++) {
                 System.out.print(sortedArray[i] + " ");
@@ -16,7 +19,7 @@ public class PalindromeCheck {
             if (nums.length == 0) {
                 return 0;
             }
-            System.out.println("Git reference");
+
 
             int uniqueIndex = 0;
 
@@ -29,6 +32,7 @@ public class PalindromeCheck {
 
             return uniqueIndex + 1;
         }
+        //comments
 
 
 }
