@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c19f4e-3383-4a28-af08-5056809cf4bf" name="Changes" comment="removed extra print statements">
-      <change afterPath="$PROJECT_DIR$/src/Practice/LList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94c19f4e-3383-4a28-af08-5056809cf4bf" name="Changes" comment="LinkedList Practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692773846979</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="LinkedList Practice">
+      <created>1692965438161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692965438161</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +200,7 @@
     <MESSAGE value="added comment" />
     <MESSAGE value="added print statement" />
     <MESSAGE value="removed extra print statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed extra print statements" />
+    <MESSAGE value="LinkedList Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList Practice" />
   </component>
 </project>

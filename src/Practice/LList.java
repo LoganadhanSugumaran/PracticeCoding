@@ -1,7 +1,7 @@
 package Practice;
 import org.w3c.dom.Node;
 
-import java.util.LinkedList;
+
 public class LList {
     Node head;
     private int size;
