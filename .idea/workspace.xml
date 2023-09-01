@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c19f4e-3383-4a28-af08-5056809cf4bf" name="Changes" comment="OOPs concept">
-      <change afterPath="$PROJECT_DIR$/src/Practice/OOPS_Pen.java" afterDir="false" />
+    <list default="true" id="94c19f4e-3383-4a28-af08-5056809cf4bf" name="Changes" comment="method overloading">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OOPS_Pen">
+  <component name="RunManager" selected="Application.OOPS_Inh">
     <configuration name="LList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.LList" />
       <module name="PracticeCodes" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPS_Pen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.OOPS_Pen" />
+    <configuration name="OOPS_Inh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.OOPS_Inh" />
       <module name="PracticeCodes" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.PalindromeCheck" />
+    <configuration name="OOPS_Pen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.OOPS_Pen" />
       <module name="PracticeCodes" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPS_Inh" />
         <item itemvalue="Application.OOPS_Pen" />
         <item itemvalue="Application.OOPS" />
         <item itemvalue="Application.stackLL" />
         <item itemvalue="Application.LList" />
-        <item itemvalue="Application.PalindromeCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693566385663</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="OOPs concept by Pen object">
+      <created>1693566997615</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693566997615</updated>
+    </task>
+    <task id="LOCAL-00016" summary="method overloading">
+      <created>1693578044576</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693578044577</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +257,8 @@
     <MESSAGE value="Stacks using LinkedList" />
     <MESSAGE value="Queue using LinkedList" />
     <MESSAGE value="OOPs concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPs concept" />
+    <MESSAGE value="OOPs concept by Pen object" />
+    <MESSAGE value="method overloading" />
+    <option name="LAST_COMMIT_MESSAGE" value="method overloading" />
   </component>
 </project>
